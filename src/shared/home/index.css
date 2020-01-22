@@ -1,0 +1,12 @@
+.home {
+  top: 32px;
+  font-family: 'Avenir Light', Helvetica, Arial, sans-serif;
+  background-color: #f6f6ef;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
